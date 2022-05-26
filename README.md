@@ -1,4 +1,4 @@
-# Blog
+# Influencer Blog
 Node.JS Influncer blog
 # Functionality
 | Admin |  Basic User |  Premium User |  Visitor |
